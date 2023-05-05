@@ -53,3 +53,9 @@ form input.equal{
 form input.operator{
 	color: rgb(4, 234, 250);
 }
+
+@media screen and (max-width: 768px){
+	.container{
+		width: 100%;
+	}
+}
